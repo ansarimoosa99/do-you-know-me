@@ -4,4 +4,3 @@ This is a repl CLI game.
 
 Do try it out.
 
-~ Ansari
